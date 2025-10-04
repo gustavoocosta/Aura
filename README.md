@@ -1,4 +1,4 @@
-# 🎵 Music Streaming App
+# 🎵 Aura
 
 Aplicação de streaming de músicas com **backend em Java Spring Boot**, **frontend em React** e integração via **Docker Compose**.
 
@@ -19,7 +19,7 @@ Aplicação de streaming de músicas com **backend em Java Spring Boot**, **fron
 
 ## 🚀 Visão Geral
 
-O **Music Streaming App** é um sistema que permite gerenciar músicas, listá-las e consumir via interface web. O backend expõe uma **API RESTful**, e o frontend em React consome essa API para exibir os dados ao usuário.
+O **Aura** é um sistema que permite gerenciar músicas, listá-las e consumir via interface web. O backend expõe uma **API RESTful**, e o frontend em React consome essa API para exibir os dados ao usuário.
 
 ---
 
